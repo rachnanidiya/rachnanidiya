@@ -36,7 +36,7 @@
 <br/><br/>
 
 <a href="mailto:rachnanidiya@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/diya-rachnani-2a718736b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/diyarachnani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
@@ -46,9 +46,9 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🧠 Recall — AI Flashcard Studio
+### 🧠 Engram — AI Flashcard Studio
 AI-powered flashcards using **Gemini API** with **SM-2 spaced repetition**.
 
 - Evolved from a browser prototype → full **Flask + REST API** backend
@@ -57,26 +57,10 @@ AI-powered flashcards using **Gemini API** with **SM-2 spaced repetition**.
 
 `Flask` `REST API` `Gemini API` `Security Hardening`
 
-**[View Repo →](#)**
+**[View Repo →](https://github.com/rachnanidiya/Engram.git)**
 
 </td>
-<td width="50%" valign="top">
-
-### 📈 Engram — Study & Streak Tracker
-Session-based study tracker with streak analytics.
-
-- Built with **Flask-Login**, session auth, and password hashing
-- Traced and fixed an **unauthorized data access bug** at its root cause — not just the symptom
-- Streak analytics engine for daily study habits
-
-`Flask-Login` `Session Auth` `Analytics`
-
-**[View Repo →](#)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 💬 AI Chatbot
 Conversational app with real-time streaming responses.
@@ -86,10 +70,10 @@ Conversational app with real-time streaming responses.
 
 `Django` `PostgreSQL` `Supabase` `Streaming`
 
-**[View Repo →](#)**
+**[View Repo →](https://github.com/rachnanidiya/AI-ChatBot.git)**
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### ✅ Flask Task Manager — REST API
 A clean, production-style task management API.
@@ -99,7 +83,7 @@ A clean, production-style task management API.
 
 `Flask` `SQLAlchemy` `JWT` `Flask-Migrate`
 
-**[View Repo →](#)**
+**[View Repo →](https://github.com/rachnanidiya/TaskManager.git)**
 
 </td>
 </tr>
