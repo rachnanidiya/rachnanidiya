@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=header&text=Hi,%20I'm%20Diya%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<a href="https://linkedin.com/in/diya-rachnani-2a718736b"><img src="https://img.shields.io/badge/LinkedIn-6C5CE7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="mailto:rachnanidiya@gmail.com"><img src="https://img.shields.io/badge/Email-E84393?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="https://linkedin.com/in/diya-rachnani-2a718736b" target="_blank"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=6C5CE7&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn" /></a>
+<a href="mailto:rachnanidiya@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=Say+Hi&color=E84393&style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email" /></a>
 
 </div>
 
@@ -27,9 +27,7 @@
 
 **What I'm building towards**
 
-☑️ Backend architecture that doesn't fall over
-&nbsp;
-☑️ Application security done right
+☑️ Backend architecture & application security
 &nbsp;
 ☑️ Clean, full-stack builds end to end
 
@@ -44,25 +42,19 @@
 <br/>
 <img src="https://img.shields.io/badge/Python-6C5CE7?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/JavaScript-4834D4?style=flat-square&logo=javascript&logoColor=white&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/HTML5-6C5CE7?style=flat-square&logo=html5&logoColor=white&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/CSS3-4834D4?style=flat-square&logo=css3&logoColor=white&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Git-6C5CE7?style=flat-square&logo=git&logoColor=white&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/GitHub-4834D4?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e" />
 
 **Backend & APIs**
 <br/>
 <img src="https://img.shields.io/badge/Flask-00B894?style=flat-square&logo=flask&logoColor=white&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Django-00A8CC?style=flat-square&logo=django&logoColor=white&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/REST_API-00B894?style=flat-square&logo=fastapi&logoColor=white&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/JWT-00A8CC?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=1a1a2e" />
 
 **Data & AI**
 <br/>
 <img src="https://img.shields.io/badge/PostgreSQL-E84393?style=flat-square&logo=postgresql&logoColor=white&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/SQLite-E67E22?style=flat-square&logo=sqlite&logoColor=white&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Supabase-E84393?style=flat-square&logo=supabase&logoColor=white&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/SQLAlchemy-E67E22?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Gemini_API-E84393?style=flat-square&logo=googlegemini&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Gemini_API-E67E22?style=flat-square&logo=googlegemini&logoColor=white&labelColor=1a1a2e" />
 
 </div>
 
@@ -80,8 +72,7 @@
 AI-powered flashcards using **Gemini API** with **SM-2 spaced repetition**.
 
 - Evolved from a browser prototype → full **Flask + REST API** backend
-- Ran a security-focused code review: fixed **IDOR vulnerabilities**, NULL query bugs, orphaned deck creation, missing input validation
-- Full UI redesign — aurora animation, glassmorphic cards, Syne/DM Sans typography
+- Security-focused code review: fixed **IDOR vulnerabilities**, NULL query bugs, missing input validation
 
 `Flask` `REST API` `Gemini API` `Security Hardening`
 
@@ -107,7 +98,7 @@ Conversational app with real-time streaming responses.
 A clean, production-style task management API.
 
 - **Flask + SQLAlchemy** with **JWT authentication**
-- **Flask-Migrate** for schema versioning, SQLite for lightweight persistence
+- **Flask-Migrate** for schema versioning
 
 `Flask` `SQLAlchemy` `JWT` `Flask-Migrate`
 
@@ -116,17 +107,6 @@ A clean, production-style task management API.
 </td>
 </tr>
 </table>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rachnanidiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachnanidiya&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rachnanidiya&theme=tokyonight&hide_border=true" />
-
-</div>
 
 <div align="center">
 
