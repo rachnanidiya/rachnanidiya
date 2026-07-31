@@ -1,46 +1,74 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi,%20I'm%20Diya%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=header&text=Hi,%20I'm%20Diya%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<a href="https://linkedin.com/in/diya-rachnani-2a718736b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:rachnanidiya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/diya-rachnani-2a718736b"><img src="https://img.shields.io/badge/LinkedIn-6C5CE7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="mailto:rachnanidiya@gmail.com"><img src="https://img.shields.io/badge/Email-E84393?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
 
 </div>
 
-<br/>
-
-## 👋 About Me
+## 👋 About Me & Tech Stack
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Diya+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI+App+Builder+%F0%9F%A4%96;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/🎓_MCA-GLS_University-6C5CE7?style=for-the-badge&labelColor=2d3436" />
-<img src="https://img.shields.io/badge/📘_BCA-9.65_CGPA-00B894?style=for-the-badge&labelColor=2d3436" />
-<img src="https://img.shields.io/badge/💼_Status-Open_to_Work-FD79A8?style=for-the-badge&labelColor=2d3436" />
-
-<br/><br/>
-
-**What I'm building towards**
-
-- [x] Backend architecture that doesn't fall over
-- [x] Application security — the boring parts done right
-- [x] Clean, full-stack builds, end to end
-
-<br/>
-
-📫 &nbsp;**rachnanidiya@gmail.com**
-
-<br/><br/>
-
-<a href="mailto:rachnanidiya@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/diyarachnani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Diya+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI+App+Builder+%F0%9F%A4%96;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 
 </div>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎓_MCA-GLS_University-6C5CE7?style=for-the-badge&labelColor=1a1a2e" /><br/>
+<img src="https://img.shields.io/badge/📘_BCA-9.65_CGPA-00B894?style=for-the-badge&labelColor=1a1a2e" /><br/>
+<img src="https://img.shields.io/badge/💼_Status-Open_to_Work-E84393?style=for-the-badge&labelColor=1a1a2e" />
+
+**What I'm building towards**
+
+☑️ Backend architecture that doesn't fall over
+&nbsp;
+☑️ Application security done right
+&nbsp;
+☑️ Clean, full-stack builds end to end
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+**Languages & Tools**
 <br/>
+<img src="https://img.shields.io/badge/Python-6C5CE7?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/JavaScript-4834D4?style=flat-square&logo=javascript&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/HTML5-6C5CE7?style=flat-square&logo=html5&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/CSS3-4834D4?style=flat-square&logo=css3&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Git-6C5CE7?style=flat-square&logo=git&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/GitHub-4834D4?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e" />
+
+**Backend & APIs**
+<br/>
+<img src="https://img.shields.io/badge/Flask-00B894?style=flat-square&logo=flask&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Django-00A8CC?style=flat-square&logo=django&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/REST_API-00B894?style=flat-square&logo=fastapi&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/JWT-00A8CC?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=1a1a2e" />
+
+**Data & AI**
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-E84393?style=flat-square&logo=postgresql&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/SQLite-E67E22?style=flat-square&logo=sqlite&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Supabase-E84393?style=flat-square&logo=supabase&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/SQLAlchemy-E67E22?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Gemini_API-E84393?style=flat-square&logo=googlegemini&logoColor=white&labelColor=1a1a2e" />
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ## 🚀 Featured Projects
 
@@ -89,53 +117,6 @@ A clean, production-style task management API.
 </tr>
 </table>
 
-<br/>
-
-## 🧰 Tech Stack
-
-<table>
-<tr><td valign="top" width="16%"><b>Languages</b></td><td>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
-</td></tr>
-<tr><td valign="top"><b>Backend</b></td><td>
-
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-
-</td></tr>
-<tr><td valign="top"><b>Data</b></td><td>
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white" />
-
-</td></tr>
-<tr><td valign="top"><b>AI / ML</b></td><td>
-
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Spaced_Repetition-4B5563?style=flat-square" />
-
-</td></tr>
-<tr><td valign="top"><b>Tools</b></td><td>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-
-</td></tr>
-</table>
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -143,27 +124,14 @@ A clean, production-style task management API.
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=rachnanidiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachnanidiya&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachnanidiya&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rachnanidiya&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachnanidiya&theme=tokyo-night&hide_border=true" />
 
 </div>
 
-<br/>
-
 <div align="center">
 
-### 💭 Currently
-🔭 Building out my full-stack + AI project portfolio &nbsp;|&nbsp; 🌱 Deepening backend security & system design &nbsp;|&nbsp; 📫 **rachnanidiya@gmail.com**
+📫 &nbsp;**rachnanidiya@gmail.com** &nbsp;•&nbsp; open to internship & full-time roles
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=80&section=footer" />
 
 </div>
